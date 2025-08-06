@@ -12,10 +12,11 @@
 
 Ответ:
 
-Конфигурационный файл haproxy.cfg.
+Конфигурационный файл 
+![haproxy.cfg](https://github.com/konstanin-zubenko/nginx-and-haproxy/blob/main/haproxy.cfg)
 
 Cкриншоты перенаправления запросов на разные серверы:
-
+![alt text](https://github.com/konstanin-zubenko/nginx-and-haproxy/blob/main/img/96.png)
 
 
 
