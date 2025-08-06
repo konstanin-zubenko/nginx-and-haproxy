@@ -28,3 +28,9 @@ Cкриншоты перенаправления запросов на разн�
 
 Ответ:
 
+Конфигурационный файл 
+![haproxy.cfg](https://github.com/konstanin-zubenko/nginx-and-haproxy/blob/main/haproxy_2.cfg)
+
+Cкриншоты перенаправления запросов на разные серверы:
+![alt text](https://github.com/konstanin-zubenko/nginx-and-haproxy/blob/main/img/97.png)
+
